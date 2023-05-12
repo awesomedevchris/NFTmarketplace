@@ -23,7 +23,5 @@ Execute mongoDB on local
 
 ### Contact ME!
 
+Email: camitchell1982@gmail.com
 
-Telegram: @CuptupAngel
-
-Email: angel126mic@gmail.com
